@@ -1,3 +1,3 @@
 # hello-world
-lalalal\n
+lalalal
 tutorial
